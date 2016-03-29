@@ -84,7 +84,7 @@ header a:before {
 	margin-top: 20px;
 	padding-top: 75px;
 	border: 0;
-	background-image: url(asset/file.PNG);
+	background-image: url(./asset/file.PNG);
 	background-size: 3em;
 	background-repeat: no-repeat;
 	background-position: center top;
@@ -98,7 +98,7 @@ header a:before {
 	border: 0;
 	padding-bottom: 0;
 	padding-top: 120px;
-	background-image: url(asset/smbear.PNG);
+	background-image: url(./asset/smbear.PNG);
 	background-repeat: no-repeat;
 	background-position: center top;
 }
