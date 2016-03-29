@@ -98,7 +98,7 @@ nav .active {
 .first-section .list a {
     display: block;
     padding-top: calc(100% + 5px);
-    background-image: url(/asset/file.png);
+    background-image: url(./asset/file.PNG);
     background-repeat: no-repeat;
     background-size: contain;
 }
@@ -114,7 +114,7 @@ nav .active {
     display: inline-block;
     width: 30%;
     padding-top: 130px;
-    background-image: url(/asset/smbear.png);
+    background-image: url(./asset/smbear.PNG);
     background-repeat: no-repeat;
     background-position: 50% 0;
     margin-top: 20px;
@@ -168,8 +168,8 @@ nav .active {
 .module > div > div:last-child {
     padding-left: 10px;
     -webkit-box-flex: 2;
-            flex-grow: 2; 
-    display: -webkit-box; 
+            flex-grow: 2;
+    display: -webkit-box;
     display: flex;
     flex-flow: wrap;
     justify-content: space-around;
@@ -222,7 +222,7 @@ nav .active {
     position: absolute;
     bottom: 10px;
     left: 0;
-    
+
 }
 
 .passage-list img {
